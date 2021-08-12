@@ -1,0 +1,1 @@
+#patika kodluyoruz bootstrapt ilk site örneği
